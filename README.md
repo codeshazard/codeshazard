@@ -84,6 +84,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://stats.hyochan.dev/api/github-stats?login=codeshazard&theme=tokyonight"/>
+![](https://komarev.com/ghpvc/?username=codeshazard&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
