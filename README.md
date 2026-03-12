@@ -50,8 +50,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | [💬 LoneChat](https://github.com/codeshazard/lonechat) | Anonymous real-time one-to-one chat platform | React, Node.js, Socket.io |
-| [👨‍💻 Collaborative Code Editor](https://github.com/codeshazard) | Real-time multi-user code editor with Monaco | React, Node.js, Socket.io |
-| [🤖 AI Resume Analyzer](https://github.com/codeshazard) | AI-powered resume ATS checker and feedback tool | React, Node.js, Gemini API |
+| [👨‍💻 Collaborative Code Editor](https://github.com/codeshazard/Collaborative-Code-Editor) | Real-time multi-user code editor with Monaco | React, Node.js, Socket.io |
+| [🤖 AI Resume Analyzer](https://github.com/codeshazard/AI-Resume-Analyzer) | AI-powered resume ATS checker and feedback tool | React, Node.js, Gemini API |
 
 ---
 
