@@ -59,10 +59,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codeshazard&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeshazard&layout=compact&langs_count=7&theme=tokyonight"/>
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeshazard&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeshazard&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
 
 <div align="center">
 
