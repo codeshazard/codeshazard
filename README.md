@@ -59,7 +59,7 @@
 
 <div align="center">
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeshazard&show_icons=true&theme=tokyonight&hide_border=true)
+![Shaswat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeshazard&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codeshazard&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
