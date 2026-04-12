@@ -66,9 +66,11 @@
 
 ---
 
+## 🧠 LeetCode Progress
+
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/codeshazard?theme=dark&font=Nunito&ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/codeshazard?theme=dark&font=Fira+Code&ext=heatmap)](https://leetcode.com/u/codeshazard/)
 
 </div>
 
