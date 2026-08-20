@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-* 🎓 1st Year Computer Science Student at **The National Institute of Engineering, Mysore**
+* 🎓 3rd Year Computer Science Student at **The National Institute of Engineering, Mysore**
 * 💻 Passionate about **Full-Stack Development** and **Data Structures & Algorithms**
 * 🚀 Currently building projects with **Node.js**, **Express**, **MongoDB**, and **React**
 * 🧩 Consistent **LeetCode** solver and competitive programmer
@@ -72,7 +72,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [💬 LoneChat](https://github.com/codeshazard/lonechat) | Anonymous real-time video/text chat app with WebRTC matchmaking, AI abuse detection, and typing indicators | React, TypeScript, Node.js, Socket.IO, WebRTC |
-| [🏕️ Natours](https://github.com/codeshazard) | Full-stack tour booking platform with authentication, bookings, reviews, and payments | Node.js, Express, MongoDB, Pug, Stripe |
+| [🏕️ Natours](https://github.com/codeshazard/natours) | Full-stack tour booking platform with authentication, bookings, reviews, and payments | Node.js, Express, MongoDB, Pug, Stripe |
 
 ---
 
